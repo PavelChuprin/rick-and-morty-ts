@@ -23,7 +23,7 @@
 - Склонируйте репозиторий:
 
   ```
-  https://github.com/PavelChuprin/rick-and-morty
+  https://github.com/PavelChuprin/rick-and-morty-ts
   ```
 
 - установите зависимости командой:
