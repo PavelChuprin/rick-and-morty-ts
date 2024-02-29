@@ -54,3 +54,5 @@
 - [react-content-loader](https://www.npmjs.com/package/react-content-loader)
 
 ## Демо проекта
+
+https://rick-and-morty-k7hbork2k-pavels-projects-f7baa976.vercel.app/
